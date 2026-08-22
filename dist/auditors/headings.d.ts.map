@@ -1,0 +1,1 @@
+{"version":3,"file":"headings.d.ts","sourceRoot":"","sources":["../../src/auditors/headings.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,UAAU,EAAE,MAAM,YAAY,CAAC;AAE7C,wBAAgB,eAAe,CAAC,EAAE,EAAE,OAAO,GAAG,MAAM,GAAG,IAAI,CAoB1D;AAED,wBAAgB,kBAAkB,CAAC,EAAE,EAAE,OAAO,GAAG,MAAM,CAatD;AAED,wBAAgB,aAAa,CAAC,IAAI,GAAE,QAAQ,GAAG,OAAuE,GAAG,UAAU,EAAE,CAiIpI"}
