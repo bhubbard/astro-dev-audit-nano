@@ -5,8 +5,11 @@
 [![Chrome Built-in AI](https://img.shields.io/badge/Chrome%20AI-Gemini%20Nano-4285F4.svg?style=flat-square&logo=googlechrome)](https://developer.chrome.com/docs/ai/built-in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8%2B-3178C6.svg?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code.brandonhubbard.com-brightgreen?logo=github)](https://code.brandonhubbard.com/astro-dev-audit-nano/)
 
 An **Astro Dev Toolbar app** (`addDevToolbarApp`) that analyzes your rendered local dev page for **WCAG 2.1 AA/AAA accessibility** and **SEO** issues in real time, powered by **Chrome Built-in AI (`window.ai.languageModel` / Gemini Nano)** to generate context-aware remediation code and alt-text drafts on-device with zero API keys or cloud latency.
+
+> 🎮 **Live Interactive Visualizer & Demo:** [astro-dev-audit-nano on code.brandonhubbard.com](https://code.brandonhubbard.com/astro-dev-audit-nano/)
 
 ---
 
